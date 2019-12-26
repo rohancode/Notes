@@ -9,3 +9,6 @@ ML problems
     * 2.1.2 Text: Additional Natural language processing techniques
     * 2.1.3 Images: Additional Image processing techniques
     * 2.1.4 Voice: Additional Natural language processing techniques
+* 3. Forecasting techniques: For preditions of future batches of time
+  * 3.1 Data is usually index = time, X = features & y = value
+  * 3.2 Additional time series techniques
